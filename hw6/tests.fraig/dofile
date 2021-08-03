@@ -1,0 +1,19 @@
+cirr test1.aag
+cirg 1546 -fanout 5
+cirg 1546 -fanin 5
+cirp -fl
+cirp -pi
+cirp -po
+cirp -s
+cirp -n
+cirw
+cirr -r test2.aag
+cirg 1546 -fanout 5
+cirg 1546 -fanin 5
+cirp -fl
+cirp -pi
+cirp -po
+cirp -s
+cirp -n
+cirw
+q -f

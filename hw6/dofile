@@ -1,0 +1,11 @@
+cirr test1.aag
+cirg 36 -fanout 5
+cirg 2336 -fanout 6
+cirg 2209 -fanout 4
+cirg 1422 -fanout 4
+cirg 1545 -fanout 4
+cirg 3589 -fanout 4
+cirg 100 -fanout 4
+cirg 331 -fanout 4
+cirg 1349 -fanout 5
+q -f

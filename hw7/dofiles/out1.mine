@@ -1,0 +1,100 @@
+task> taski 10
+Task manager is initialized (10)
+
+task> taskn -r 10
+fff3
+fff8
+fff8
+fff7
+fff6
+fff12
+fff10
+fff7
+fff3
+fff9
+... 10 new task nodes are added.
+
+task> taskq -heap
+(yxqsdp, 326)
+(nblyys, 5685)
+(kxhjvx, 1395)
+(thomqj, 10268)
+(nmzhun, 15398)
+(vkuuxf, 6704)
+(balbgz, 18044)
+(wgojtn, 13354)
+(zfnvph, 12751)
+(prwlyk, 16295)
+Number of tasks: 10
+
+task> taska 100
+Task assignment succeeds...
+Updating min: (yxqsdp, 426)
+
+task> taskq -heap
+(yxqsdp, 426)
+(kxhjvx, 1395)
+(vkuuxf, 6704)
+(thomqj, 10268)
+(nblyys, 5685)
+(prwlyk, 16295)
+(balbgz, 18044)
+(wgojtn, 13354)
+(zfnvph, 12751)
+(nmzhun, 15398)
+Number of tasks: 10
+
+task> taska 1000
+Task assignment succeeds...
+Updating min: (kxhjvx, 1395)
+
+task> taskq -heap
+(kxhjvx, 1395)
+(yxqsdp, 1426)
+(vkuuxf, 6704)
+(thomqj, 10268)
+(nblyys, 5685)
+(prwlyk, 16295)
+(balbgz, 18044)
+(wgojtn, 13354)
+(zfnvph, 12751)
+(nmzhun, 15398)
+Number of tasks: 10
+
+task> taska 1000 -r 10
+Task assignment succeeds...
+Updating min: (yxqsdp, 1426)
+Task assignment succeeds...
+Updating min: (kxhjvx, 2395)
+Task assignment succeeds...
+Updating min: (yxqsdp, 2426)
+Task assignment succeeds...
+Updating min: (kxhjvx, 3395)
+Task assignment succeeds...
+Updating min: (yxqsdp, 3426)
+Task assignment succeeds...
+Updating min: (kxhjvx, 4395)
+Task assignment succeeds...
+Updating min: (yxqsdp, 4426)
+Task assignment succeeds...
+Updating min: (kxhjvx, 5395)
+Task assignment succeeds...
+Updating min: (yxqsdp, 5426)
+Task assignment succeeds...
+Updating min: (nblyys, 5685)
+
+task> taskq -heap
+(nblyys, 5685)
+(kxhjvx, 6395)
+(vkuuxf, 6704)
+(thomqj, 10268)
+(yxqsdp, 6426)
+(prwlyk, 16295)
+(balbgz, 18044)
+(wgojtn, 13354)
+(zfnvph, 12751)
+(nmzhun, 15398)
+Number of tasks: 10
+
+task> 
+task> 
