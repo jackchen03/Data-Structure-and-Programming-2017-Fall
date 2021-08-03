@@ -11,7 +11,7 @@ identify functionally equivalent candidate pairs in the circuit.
 3. Being able to call Boolean Satisfiability (SAT) solver to prove the functional
 equivalence.
 
-## Functionalities
+## Functionalities (Step by step)
 1. Parse the circuit description file in the AIGER format
 2. Sweep out the gates that cannot be reached from POs (remove unused gates)
 3. Perform trivial circuit optimization (e.g. 1 & x, the and gate could be removed)
@@ -19,7 +19,7 @@ equivalence.
 5. Perform parallel-pattern simulation to detect the FEC (functionally equivalent candidate) pairs
 6. Prove or disprove the signals in a FEC pair by a Boolean Satisfiability (SAT) solver
 7. Merge two signals in the circuit netlist if they are proven to be functionally equivalent. 
-After all of the steps, the resultant circuit will then be simplified as a **functionally reduced And-Inverter graph** (FRAIG)
+8. After all of the steps, the resultant circuit will then be simplified as a **functionally reduced And-Inverter graph** (FRAIG)
 
 ## Commands Supported (Correspond to the functionalities above)
 - CIRRead: read in a circuit and construct the netlist
