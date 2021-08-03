@@ -1,0 +1,478 @@
+cirr -r opt01.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt02.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt03.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt04.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt05.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt06.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r opt07.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim01.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim02.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim03.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim04.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim05.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim06.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim07.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim08.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim09.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim10.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim11.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim12.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim13.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim14.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r sim15.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash01.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash02.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash03.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash04.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash05.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash06.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash07.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash08.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash09.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r strash10.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r test1.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr -r test2.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+usage
+q -f

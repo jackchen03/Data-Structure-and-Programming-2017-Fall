@@ -1,0 +1,157 @@
+cirr sim01.aag
+cirsw
+ciropt 
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim02.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim03.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim04.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim05.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim06.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim07.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim08.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim09.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim10.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim11.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim12.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim15.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+cirr -r sim14.aag
+cirsw
+ciropt
+cirstr
+cirp -n
+cirp -s
+cirp -fl
+cirsim -r
+cirf
+cirp -n
+cirp -fec
+usage
+q -f
+

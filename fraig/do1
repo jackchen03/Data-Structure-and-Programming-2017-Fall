@@ -1,0 +1,11 @@
+cirr -r ./tests.fraig/opt01.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirp -n
+cirp -s
+cirw
+cirsw
+usage
+q -f

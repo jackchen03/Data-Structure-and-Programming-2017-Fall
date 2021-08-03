@@ -1,0 +1,1316 @@
+cirr -r ./tests.fraig/opt01.aag
+cirp -s
+cirsw
+cirstra
+ciropt
+ciropt
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirg 68 -fanout 3
+cirg 71 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirr -r ./tests.fraig/opt02.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/opt03.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/opt04.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/opt05.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/opt06.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+usage
+cirr -r ./tests.fraig/sim01.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirw
+cirp -s
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim02.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim03.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim04.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim05.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim06.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim07.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim08.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim09.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim10.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim11.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim12.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim13.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim14.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/sim15.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+usage
+cirr -r ./tests.fraig/strash01.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash02.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash03.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash04.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash05.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash06.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash07.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash08.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash09.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/strash10.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+usage
+cirr -r ./tests.fraig/test1.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+cirr -r ./tests.fraig/test2.aag
+cirp -s
+cirsw
+ciropt
+ciropt
+cirstra
+cirp -n
+cirg 1 -fanout 3
+cirg 2 -fanout 3
+cirg 3 -fanout 3
+cirg 4 -fanout 3
+cirg 5 -fanout 3
+cirg 6 -fanout 3
+cirg 7 -fanout 3
+cirg 8 -fanout 3
+cirg 9 -fanout 3
+cirg 10 -fanout 3
+cirg 11 -fanout 3
+cirg 12 -fanout 3
+cirg 14 -fanout 3
+cirg 16 -fanout 3
+cirg 18 -fanout 3
+cirg 20 -fanout 3
+cirg 22 -fanout 3
+cirg 24 -fanout 3
+cirg 28 -fanout 3
+cirg 30 -fanout 3
+cirg 31 -fanout 3
+cirg 33 -fanout 3
+cirg 37 -fanout 3
+cirg 39 -fanout 3
+cirg 45 -fanout 3
+cirg 48 -fanout 3
+cirg 52 -fanout 3
+cirg 63 -fanout 3
+cirg 67 -fanout 3
+cirp -n
+cirp -s
+cirw
+cirsw
+cirp -s
+usage
+q -f

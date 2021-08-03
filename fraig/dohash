@@ -1,0 +1,4 @@
+cirr sim13.aag
+cirsim -r
+usage
+q -f
