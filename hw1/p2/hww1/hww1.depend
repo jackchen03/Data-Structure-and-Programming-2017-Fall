@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505392796 source:c:\users\jack\desktop\hw1\hw1\hw1\p2\p2main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"p2Table.h"
+
+1505392033 c:\users\jack\desktop\hw1\hw1\hw1\p2\p2table.h
+	<vector>
+	<string>
+
